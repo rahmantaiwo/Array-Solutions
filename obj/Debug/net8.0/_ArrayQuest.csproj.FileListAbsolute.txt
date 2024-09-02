@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\c#\_ArrayQuest\bin\Debug\net8.0\_ArrayQuest.exe
+C:\Users\HP\Documents\c#\_ArrayQuest\bin\Debug\net8.0\_ArrayQuest.deps.json
+C:\Users\HP\Documents\c#\_ArrayQuest\bin\Debug\net8.0\_ArrayQuest.runtimeconfig.json
+C:\Users\HP\Documents\c#\_ArrayQuest\bin\Debug\net8.0\_ArrayQuest.dll
+C:\Users\HP\Documents\c#\_ArrayQuest\bin\Debug\net8.0\_ArrayQuest.pdb
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.AssemblyInfo.cs
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.dll
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\refint\_ArrayQuest.dll
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.pdb
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\_ArrayQuest.genruntimeconfig.cache
+C:\Users\HP\Documents\c#\_ArrayQuest\obj\Debug\net8.0\ref\_ArrayQuest.dll
